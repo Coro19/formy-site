@@ -1,7 +1,9 @@
 # Formy — Privacy Policy
 
 **Effective date:** 12 September 2026
+
 **Developer:** Vlad Coroban, Timișoara, Romania
+
 **Contact:** corobanvlad10@gmail.com
 
 Formy is a fitness app that uses your phone's camera to count exercise repetitions and give feedback on your form. This policy explains what data the app processes and why.
